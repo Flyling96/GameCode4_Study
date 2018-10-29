@@ -1,0 +1,9 @@
+D:\WangLingJie\GameCC4SourceCode\gamecode4-master\Source\Lib\Win32Debug\EditorApp.exe.config
+D:\WangLingJie\GameCC4SourceCode\gamecode4-master\Source\Lib\Win32Debug\EditorApp.exe
+D:\WangLingJie\GameCC4SourceCode\gamecode4-master\Source\Lib\Win32Debug\EditorApp.pdb
+D:\WangLingJie\GameCC4SourceCode\gamecode4-master\Source\GCC4Editor\EditorApp\obj\Debug\EditorApp.EditorForm.resources
+D:\WangLingJie\GameCC4SourceCode\gamecode4-master\Source\GCC4Editor\EditorApp\obj\Debug\EditorApp.Properties.Resources.resources
+D:\WangLingJie\GameCC4SourceCode\gamecode4-master\Source\GCC4Editor\EditorApp\obj\Debug\TeapotWarsEditorApp_2015.csproj.GenerateResource.Cache
+D:\WangLingJie\GameCC4SourceCode\gamecode4-master\Source\GCC4Editor\EditorApp\obj\Debug\TeapotWarsEditorApp_2015.csproj.CoreCompileInputs.cache
+D:\WangLingJie\GameCC4SourceCode\gamecode4-master\Source\GCC4Editor\EditorApp\obj\Debug\EditorApp.exe
+D:\WangLingJie\GameCC4SourceCode\gamecode4-master\Source\GCC4Editor\EditorApp\obj\Debug\EditorApp.pdb
